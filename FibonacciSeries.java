@@ -11,6 +11,7 @@ public class FibonacciSeries {
             a = b;
             b = c;
         }
+        System.out.println("----------");
     }
 }
 
